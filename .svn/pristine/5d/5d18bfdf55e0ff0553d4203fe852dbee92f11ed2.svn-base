@@ -1,0 +1,13 @@
+Izvajanje test-H
+  Log datoteka: test-H.log
+  Izhod programa: test-H.out
+  Ukazna vrstica: bash Naloga1.sh drevo /home/test/tests/gozd/judezevo drevo
+  Izhodni status: 0
+  Realni cas izvajanja: 18
+  Uporabniski cas izvajanja: 9
+  Sistemski cas izvajanja: 10
+  Procesorski cas izvajanja: 19
+Preverjanje test-H
+  Izhodni status: ok
+  Standardni izhod: err
+  Tocke: 0

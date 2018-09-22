@@ -1,0 +1,12 @@
+DIR   /home/test/tests/gozd/bukev
+----DIR   bor
+--------FILE  gurus.txt
+--------LINK  linkec
+--------DIR   macesen
+--------PIPE  pipca
+----DIR   jelka
+--------PIPE  cev
+--------DIR   lipa
+--------LINK  ping
+--------LINK  pong
+--------FILE  runme.sh

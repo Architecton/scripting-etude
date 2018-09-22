@@ -1,0 +1,12 @@
+Izvajanje test-A
+  Log datoteka: test-A.log
+  Izhod programa: test-A.out
+  Ukazna vrstica: bash Naloga1.sh status 7010 10330
+  Izhodni status: 10
+  Realni cas izvajanja: 10
+  Uporabniski cas izvajanja: 4
+  Sistemski cas izvajanja: 6
+  Procesorski cas izvajanja: 10
+Preverjanje test-A
+  Izhodni status: ok
+  Tocke: 1

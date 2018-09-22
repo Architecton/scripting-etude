@@ -1,0 +1,13 @@
+Naloga1.sh: line 1: =: command not found
+DIR   /home/test/tests/gozd/judezevo drevo
+----DIR   davidov javor
+--------FILE  ognjeni trn
+--------DIR   pritlikava bela smreka
+----DIR   lipa
+--------LINK  cikacaka
+----LINK  ognjeni trn
+"bela  murva"
+"davidov javor"
+"lipa"
+"ognjeni trn""ognjeni trn"
+"pritlikava bela smreka""cikacaka"

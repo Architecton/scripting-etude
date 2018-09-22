@@ -1,0 +1,25 @@
+.
+./Naloga1.sh
+./test-A.log
+./test-A.out
+./test-B.log
+./test-B.out
+./test-C.log
+./test-C.out
+./test-D.log
+./test-D.out
+./test-E.log
+./test-E.out
+./test-F.log
+./test-F.out
+./test-G.log
+./test-G.out
+./test-H.log
+./test-H.out
+DIR   /home/test/tests/gozd/judezevo drevo
+----DIR   davidov javor
+--------FILE  ognjeni trn
+--------DIR   pritlikava bela smreka
+----DIR   lipa
+--------LINK  cikacaka
+----LINK  ognjeni trn

@@ -1,0 +1,1 @@
+Naloga1.sh: line 13: ((: 0 % 0 != 0 : division by 0 (error token is "0 != 0 ")

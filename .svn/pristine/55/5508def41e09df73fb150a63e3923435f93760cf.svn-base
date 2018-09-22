@@ -1,0 +1,8 @@
+DIR /home/test/tests/gozd/judezevo drevo
+stat: cannot stat '/home/test/tests/gozd/judezevo drevo/bela murva': No such file or directory
+----DIR   davidov javor
+--------FILE  ognjeni trn
+--------DIR   pritlikava bela smreka
+----DIR   lipa
+--------LINK  cikacaka
+----LINK  ognjeni trn

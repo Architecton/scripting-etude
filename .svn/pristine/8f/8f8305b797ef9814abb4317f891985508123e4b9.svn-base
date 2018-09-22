@@ -1,0 +1,35 @@
+Naloga1.sh: line 1: =: command not found
+DIR   /home/test/tests/gozd/bukev
+----DIR   bor
+--------FILE  gurus.txt
+--------LINK  linkec
+--------DIR   macesen
+------------DIR   brest
+----------------DIR   brin
+--------------------DIR   bodika
+------------------------FILE  gurus.txt
+------------------------LINK  linkec
+----------------LINK  ping
+----------------LINK  pong
+----------------FILE  runme.sh
+----DIR   jelka
+--------DIR   lipa
+------------DIR   cemprin
+--------LINK  ping
+--------LINK  pong
+--------FILE  runme.sh
+"bor"
+"jelka""gurus.txt"
+"linkec"
+"macesen"
+"pipca""brest""brda"
+"brin"
+"ping"
+"pong"
+"runme.sh""bodika"
+"pipca""gurus.txt"
+"linkec""cev"
+"lipa"
+"ping"
+"pong"
+"runme.sh""cemprin"

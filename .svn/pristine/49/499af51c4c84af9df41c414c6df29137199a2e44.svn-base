@@ -1,0 +1,13 @@
+Izvajanje test-D
+  Log datoteka: test-D.log
+  Izhod programa: test-D.out
+  Ukazna vrstica: bash Naloga1.sh userinfo root daemon bin sync games nobody test
+  Izhodni status: 0
+  Realni cas izvajanja: 90
+  Uporabniski cas izvajanja: 16
+  Sistemski cas izvajanja: 75
+  Procesorski cas izvajanja: 91
+Preverjanje test-D
+  Izhodni status: ok
+  Standardni izhod: ok
+  Tocke: 1

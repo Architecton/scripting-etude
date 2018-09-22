@@ -1,0 +1,8 @@
+root: enaka 1
+daemon: enaka 1
+bin: enaka 1
+sync: 1
+games: 1
+nobody: enaka 1
+test: obstaja 1
+

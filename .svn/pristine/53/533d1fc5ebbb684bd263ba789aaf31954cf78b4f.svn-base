@@ -1,0 +1,13 @@
+Izvajanje test-F
+  Log datoteka: test-F.log
+  Izhod programa: test-F.out
+  Ukazna vrstica: bash Naloga1.sh drevo /home/test/tests/gozd/bukev
+  Izhodni status: 0
+  Realni cas izvajanja: 99
+  Uporabniski cas izvajanja: 35
+  Sistemski cas izvajanja: 65
+  Procesorski cas izvajanja: 100
+Preverjanje test-F
+  Izhodni status: ok
+  Standardni izhod: err
+  Tocke: 0

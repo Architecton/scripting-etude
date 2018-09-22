@@ -1,0 +1,8 @@
+DIR   /home/test/tests/gozd/judezevo drevo
+----DIR   davidov javor
+--------FILE  ognjeni trn
+--------DIR   pritlikava bela smreka
+----DIR   lipa
+--------LINK  cikacaka
+----LINK  ognjeni trn
+bela  murvadavidov javorognjeni trnpritlikava bela smrekalipacikacakaognjeni trn

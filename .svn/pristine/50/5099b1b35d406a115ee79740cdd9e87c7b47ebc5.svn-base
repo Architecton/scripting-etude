@@ -1,0 +1,17 @@
+.
+./Naloga1.sh
+./test-A.log
+./test-A.out
+./test-B.log
+./test-B.out
+./test-C.log
+./test-C.out
+./test-D.log
+./test-D.out
+root: enaka 1
+daemon: enaka 1
+bin: enaka 1
+sync: 1
+games: 1
+nobody: enaka 1
+test: obstaja 1

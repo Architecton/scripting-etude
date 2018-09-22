@@ -1,0 +1,13 @@
+Izvajanje test-E
+  Log datoteka: test-E.log
+  Izhod programa: test-E.out
+  Ukazna vrstica: bash Naloga1.sh tocke
+  Izhodni status: 0
+  Realni cas izvajanja: 12
+  Uporabniski cas izvajanja: 6
+  Sistemski cas izvajanja: 4
+  Procesorski cas izvajanja: 10
+Preverjanje test-E
+  Izhodni status: ok
+  Standardni izhod: err
+  Tocke: 0
